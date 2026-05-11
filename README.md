@@ -132,5 +132,5 @@ Drop your CSV into `data/raw/` and update the `INPUT_FILE` path in `main.py`. To
 
 ## Author
 
-**Daniel Dobos** — Python developer based in Seville, Spain.  
-Available for freelance data cleaning, automation, and analysis projects.
+**Daniel Dobos** — Python student based in Seville, Spain.  
+Open to entry-level freelance projects in data cleaning, web scraping, and automation.
